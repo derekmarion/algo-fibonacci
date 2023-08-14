@@ -1,4 +1,0 @@
-def fibonacci(n):
-  pass
-
-
